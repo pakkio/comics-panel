@@ -1,0 +1,7 @@
+# Core dependencies
+opencv-python>=4.11.0.86  # latest stable (Jan 2025)
+numpy>=2.2.0              # array operations
+scipy>=1.15.0             # distance transforms
+scikit-image>=0.25.0      # peak_local_max, watershed
+opencv-python-headless>=4.11.0.86
+
